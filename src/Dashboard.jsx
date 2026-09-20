@@ -87,7 +87,7 @@ function Dashboard() {
   return (
     <div className="dashboard-wrapper">
       <div className="chart-container">
-        <h2>Total Sales This Quarter ($)</h2>
+        <h2>Total Sales This Week (Rs)</h2>
         <div style={{ flex: 1 }}>
           <Chart
             options={{
